@@ -1,1 +1,1 @@
-# search.japancc
+# search.japan
